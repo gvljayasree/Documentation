@@ -1,0 +1,15 @@
+Installed git and created a github account learnt few commands in github.
+commands-1.git add
+         2.git pull REMOTENAME BRANCHNAMEgit push REMOTENAME BRANCHNAME
+         3.git remote prune REMOTENAME
+         4.git branch BRANCHNAME
+         5.git branch
+         6.git checkout BRANCHNAME
+         7.git merge BRANCHNAME
+         8.git branch -d BRANCHNAME
+         9.git push origin :BRANCHNAME
+         10.git push origin --delete BRANCHNAME
+         11.git reset --hard HEAD
+         12.git reset --hard HEAD~1
+these are few commands i learnt and using git hub account about respositories
+
