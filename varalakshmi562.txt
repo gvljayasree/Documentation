@@ -1,3 +1,3 @@
-Sir, I have gone through these research papers. One paper is based on mobile ipsecurity and other research paper is based on web based heuristics.
+Sir, i have gone through these research papers. One paper is based on mobile ipsecurity and other research paper is based on web based heuristics.
 https://www.academia.edu/40947106/Learning_page-independent_heuristics_for_extracting_data_from_Web_pages
 https://mail.google.com/mail/u/0?ui=2&ik=c635cf7e6c&attid=0.1&permmsgid=msg-a:r7524383669317403466&th=16ea19d7f542b9ba&view=att&disp=inline&realattid=16ea19c7415f4f812c11
