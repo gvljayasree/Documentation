@@ -1,0 +1,5 @@
+I worked on how to install git and setting the environment variables in git.
+learnt how to create a shared repositary in github.
+Basic commands in git, like init,add,config,status,reset,rm,branch,merge,push,pull.
+gone through the following journal
+https://doi.org/10.1016/j.comnet.2019.03.014
