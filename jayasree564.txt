@@ -8,3 +8,9 @@ https://doi.org/10.1016/j.comnet.2019.03.014
 Participated in an online challenge held by hackerearth integrated with Juspay.
 Gone through the seminar topic feeback and feedforward neural networks.
 Explored and collected various IEEE papers related to Ad-Hoc Multipath routhing algorithms.
+"""""02-12-2019/Tuesday"""""""
+going through the concepts of:
+EANET
+MANET
+AODV
+AOMDV
