@@ -14,6 +14,8 @@ EANET
 MANET
 AODV
 AOMDV
+"""""09-10-2019/Monday"""""""
+Gone through the base paper "Spammer detection and fake user identification"
 """""10-12-2019/tuesday""""""
 Going through the base paper:"Authentication by Encrypted Negative Password"
 specific topics-Rainbow table attack,Dictionary attack
