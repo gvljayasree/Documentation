@@ -22,3 +22,4 @@ specific topics-Rainbow table attack,Dictionary attack
 """""11-12-2019/wednesday""""
 Going through the base paper:"Authentication by Encrypted Negative Password"
 specific topics-Negative Database,Lookup table attack
+uploaded the base paper in git,document name:"luo2018.pdf"
